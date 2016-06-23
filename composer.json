@@ -1,0 +1,21 @@
+{
+  "name": "root/crudph2",
+  "description": "CRUD para teste na empresa Ph2Full",
+  "require": {
+    "php": ">=5.5.0",
+    "twbs/bootstrap": ">=3.0"
+  },
+  "authors": [
+    {
+      "name": "Enzo Augusto",
+      "email": "enzovaughan@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-0": {
+      "Core": "src",
+      "Application": "src"
+    }
+  }
+}
